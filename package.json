@@ -36,7 +36,7 @@
     }
   },
   "dependencies": {
-    "mocha": "~1.17.1",
+    "mocha": "https://github.com/sergeydt/mocha/tarball/master",
     "hooker": "~0.2.3"
   },
   "devDependencies": {
